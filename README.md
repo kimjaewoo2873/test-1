@@ -40,3 +40,5 @@ document.write("현재 시각은 $(display)입니다.");
 [하루하루 스터디 노트](https://doit-fwd.tistory.com/)
 
 [하루하루 스터디 노트](https://doit-fwd.tistory.com/, "프런트엔드 개발 팀")
+
+깃허브 데브를 사용해 문서를 수정 중입니다.
